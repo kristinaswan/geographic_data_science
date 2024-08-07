@@ -5,7 +5,7 @@ https://darribas.org/gds_course/content/home.html
 Ссылка на книгу "Геопространственный анализ данных":\
 https://geographicdata.science/book/intro.html
 
-Часть D
+Часть D\
 https://darribas.org/gds_course/content/bD/diy_D.html
 
 ### Описание данных:
