@@ -51,13 +51,12 @@ https://d2ad6b4ur7yvpq.cloudfront.net/naturalearth-3.3.0/ne_50m_populated_places
 
 ### Инструменты: 
 * Python
-* Библиотеки Pandas, Geopandas, Numpy, Matplotlib.pyplot, Seaborn, Contextily, Pysal.lib, Sklearn, Ipywidgets
+* Библиотеки Pandas, Geopandas, Numpy, Matplotlib.pyplot, Seaborn, Contextily, Pysal.lib, Sklearn, Ipywidgets, Requests, Base64, Zipfile, Io
 
 ### Навыки:
-* Подготовка данных (в т.ч. стандартизация данных)
+* Подготовка данных
 * Визуализация данных
-* Матрица пространственных весов соседства (принцип "ферзя")
-* Кластеризация
+* Кластеризация (DBSCAN)
+* Агрегация данных
 * Пространственная структура распределения
 * Анализ данных
-
